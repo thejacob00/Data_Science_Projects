@@ -1,0 +1,255 @@
+1.	12	Riad Rababeh	 	15:24.8	Dearborn
+2.	12	Mitchell Day	 	15:40.8	Alpena
+3.	10	Harrison Grzymkowski	 	15:51.4	White Lake Lakeland
+4.	12	Michael Jarvis	 	15:52.2	Lake Orion
+5.	12	Tyler McCartney	 	15:52.6	Grand Ledge
+6.	12	Matt Schram	 	15:54.4	Rochester Adams
+7.	12	Andrew Bond	 	15:54.8	Fenton
+8.	10	Tristan Williams	 	15:55.4	Ann Arbor Skyline
+9.	11	Abdi Ahmed	 	15:55.5	GR Forest Hills Nort...
+10.	11	Ethan Byrnes	 	15:55.6	Plymouth
+11.	12	Ben Cracraft	 	15:56.1	Northville
+12.	10	Aden Smith	 	15:56.7	Alpena
+13.	11	Jack Nicholson	 	15:57.2	Grand Haven
+14.	12	Steven Stine	 	15:57.3	Fraser
+15.	12	Zac Clark	 	15:59.0	Canton
+16.	12	Ty Buckley	 	15:59.9	Detroit Catholic Cen...
+17.	10	Nick Foster	 	16:00.4	Ann Arbor Pioneer
+18.	9	Carter Solomon	 	16:01.0	Plymouth
+19.	12	David Mitter	 	16:01.2	Howell
+20.	11	Harrison Steen	 	16:02.5	Rochester Hills Ston...
+21.	12	Jordan Bennett	 	16:02.7	Caledonia
+22.	10	Josh Smith	 	16:02.8	Alpena
+23.	11	Evan Meyer	 	16:02.9	East Lansing
+24.	12	Ben Williams	 	16:03.4	Birmingham Seaholm
+25.	12	Gannon Foley	 	16:04.1	Portage Central
+26.	12	Aidan Carichner	 	16:07.4	Saline
+27.	11	Austin Remick	 	16:07.4	Rochester
+28.	9	Zach Stewart	 	16:08.7	Brighton
+29.	11	Saano Murembya	 	16:10.6	Okemos
+30.	12	Cameron Cooper	 	16:10.9	Oak Park
+31.	11	Michael Fiore	 	16:11.7	Saginaw Heritage
+32.	11	Michael Tremonti	 	16:12.4	Brother Rice
+33.	12	Christian Hubaker	 	16:12.8	Grand Ledge
+34.	11	Matthew Parran	 	16:13.5	Monroe
+35.	11	Robbie Lohr	 	16:14.3	Traverse City West
+36.	11	Anthony DeKraker	 	16:15.8	Saline
+37.	9	Jack Wilson	 	16:16.9	Romeo
+38.	12	Jack Shelley	 	16:17.3	Dexter
+39.	11	Dayton Brown	 	16:18.2	Rockford
+40.	12	Zack Werth	 	16:18.6	White Lake Lakeland
+41.	12	John Landy	 	16:20.1	Novi
+42.	12	Dakota Giles	 	16:20.1	Highland-Milford
+43.	12	Jordan Eisengruber	 	16:20.9	Saginaw Heritage
+44.	12	Joel Woody	 	16:22.7	White Lake Lakeland
+45.	11	Drew Wenger	 	16:23.8	White Lake Lakeland
+46.	11	Paul McKinley	 	16:24.1	Okemos
+47.	10	Sam Martens	 	16:24.8	Holland
+48.	10	Nicholas Couyoumjian	 	16:26.7	Northville
+49.	10	Evan White	 	16:27.1	Highland-Milford
+50.	12	Alexander Ross	 	16:28.0	Beverly Hills Groves
+51.	12	Jack Balint	 	16:28.2	Livonia Stevenson
+52.	10	Alec Miracle	 	16:28.9	Brother Rice
+53.	10	Luke Haran	 	16:29.8	Salem
+54.	12	Scott MacPherson	 	16:30.2	Novi
+55.	11	Nick Hoffman	 	16:33.1	Holland
+56.	12	Tyler Opdycke	 	16:34.1	Livonia Churchill
+57.	10	George Nummer	 	16:34.2	Birmingham Seaholm
+58.	12	Jared Hill	 	16:35.5	Walled Lake Central
+59.	12	Matthew Billette	 	16:35.5	Bay City Western
+60.	12	Luke Wallace	 	16:36.5	Birmingham Seaholm
+61.	10	Ethan Mielock	 	16:37.4	Ann Arbor Pioneer
+62.	12	Micah Meindertsma	 	16:37.6	Caledonia
+63.	12	William Eisert	 	16:37.8	Clarkston
+64.	11	Justin Michele	 	16:37.9	Ann Arbor Skyline
+65.	12	Evan Koerschner	 	16:38.3	Saline
+66.	11	Dylan Hanson	 	16:38.5	Utica Ford
+67.	11	Zac Truman	 	16:38.7	Utica Eisenhower
+68.	11	Grant Davey	 	16:39.2	Brother Rice
+69.	12	Alex Brauer	 	16:39.4	Livonia Stevenson
+70.	11	Nick Martin	 	16:39.7	Highland-Milford
+71.	12	Brendan Nesbitt	 	16:40.1	Bay City Western
+72.	11	Evan Dubey	 	16:40.4	Rockford
+73.	12	Lee Owens	 	16:40.7	Howell
+74.	12	Owen Woltjer	 	16:41.1	Caledonia
+75.	11	Michael Greeley	 	16:41.5	Temperance Bedford
+76.	12	Chase Fedolak	 	16:42.4	Macomb Dakota
+77.	11	Owen Rowader	 	16:42.6	Livonia Stevenson
+78.	12	Logan McDonald	 	16:42.8	Portage Northern
+79.	11	Angelo Savich	 	16:43.0	White Lake Lakeland
+80.	10	Michael Shkolnik	 	16:43.2	Ann Arbor Pioneer
+81.	12	Kyle Chisholm	 	16:43.8	Brother Rice
+82.	10	Trey Mullins	 	16:44.1	Novi
+83.	12	Jacob Ferguson	 	16:44.3	Davison
+84.	12	Demetrius Johnson	 	16:44.4	Wyandotte Roosevelt
+85.	11	Jack Doyle	 	16:44.9	Saginaw Heritage
+86.	11	Nathan LaFramboise	 	16:45.0	Berkley
+87.	12	Gabe Garbarino	 	16:45.6	Utica
+88.	12	Mike Burley	 	16:45.6	Sterling Heights
+89.	11	Nick Trevisan	 	16:45.6	Farmington
+90.	10	Ryan Mulcahy	 	16:46.0	Lake Orion
+91.	11	Mike Ciaravino	 	16:47.2	Grosse Pointe North
+92.	10	Greg Smith	 	16:47.8	Davison
+93.	11	Gabriel Mudel	 	16:48.1	Novi
+94.	12	Aric Landy	 	16:48.2	Novi
+95.	12	Mika Juuhl	 	16:48.5	Clarkston
+96.	10	Jacob McDowell	 	16:48.7	Saginaw Heritage
+97.	12	Evan Vorwerck	 	16:48.7	Bay City Western
+98.	11	Marcus Jackson	 	16:48.9	Royal Oak
+99.	12	Kyle Johnson	 	16:49.0	Rochester
+100.	12	Connor Meehan	 	16:49.0	Saline
+101.	12	Jack Aman	 	16:49.4	Highland-Milford
+102.	12	Kyle Schwieman	 	16:49.6	Flushing
+103.	10	Jevin Nishioka	 	16:50.0	Saline
+104.	12	Matt Tarry	 	16:50.9	Walled Lake Central
+105.	12	Jacob Schaldenbrand	 	16:51.6	Macomb L'Anse Creuse...
+106.	12	Matthew Lieberman	 	16:52.0	Ann Arbor Pioneer
+107.	10	Luke Daniel	 	16:52.6	Portage Northern
+108.	12	Peter Bejin	 	16:52.7	Northville
+109.	12	Mark Borek	 	16:52.8	Detroit Catholic Cen...
+110.	12	Evan Ferrante	 	16:52.8	Northville
+111.	12	Miles Kanipe	 	16:53.5	Dexter
+112.	12	Garrett Brown	 	16:54.3	Southgate Anderson
+113.	12	Jacob Dolan	 	16:54.5	Clarkston
+114.	11	Drew Johnson	 	16:54.7	Allen Park
+115.	12	Dominic Hentemann	 	16:55.2	Grand Haven
+116.	12	Brennan Brothers	 	16:56.1	Utica Eisenhower
+117.	11	Jack Wallace	 	16:56.3	Ann Arbor Pioneer
+118.	11	Aldo Pando Girard	 	16:56.4	Ann Arbor Pioneer
+119.	11	Billy Brinker	 	16:56.9	Gibraltar Carlson
+120.	12	Eric Johnson	 	16:57.0	Grand Haven
+121.	11	Aaron Weimer	 	16:58.3	Holland West Ottawa
+122.	12	Mitchell MacDonald	 	16:58.5	Macomb Dakota
+123.	11	Hayden Holmes	 	16:59.0	Traverse City West
+124.	10	Kevan O'Brien	 	16:59.6	Brother Rice
+125.	11	Matthew Mulligan	 	17:00.0	Lake Orion
+126.	10	Jack Grimm	 	17:00.3	Rockford
+127.	11	Mohammed Munassar	 	17:00.4	Dearborn Edsel Ford
+128.	12	Gabe Runyon	 	17:00.5	Kalamazoo Loy Norrix
+129.	12	Jacob Hovda	 	17:00.6	Portage Central
+130.	12	Jon Koning	 	17:00.7	Portage Central
+131.	12	Elliot Seymour	 	17:01.4	Highland-Milford
+132.	10	Shawn Slater	 	17:02.7	Clarkston
+133.	12	Jacob Blackmore	 	17:02.9	Northville
+134.	11	Nolan Bailey	 	17:03.1	Highland-Milford
+135.	12	Evan Tonn	 	17:03.6	St. Clair Shores Lak...
+136.	11	Ben Holland	 	17:04.1	Okemos
+137.	12	Joshua Jaster	 	17:04.7	Macomb Dakota
+138.	11	Henry Heller	 	17:05.1	Grand Blanc
+139.	12	Chris Silva	 	17:06.3	Novi
+140.	10	William Hofmann	 	17:06.4	Grosse Pointe North
+141.	11	Josh Nickless	 	17:06.5	Bay City Western
+142.	12	Luke Moore	 	17:07.1	White Lake Lakeland
+143.	11	Joshua Cook	 	17:07.7	Saline
+144.	12	Zachary MacDonald	 	17:08.1	Macomb Dakota
+145.	12	Alex Searl	 	17:08.3	Rockford
+146.	12	Tom Stock	 	17:10.5	Grand Haven
+147.	12	Jordan Pattison	 	17:10.9	Caledonia
+148.	11	Mohamed Abdelhafis...	 	17:11.1	East Kentwood
+149.	12	Jacob Dean	 	17:11.6	Traverse City West
+150.	12	Jack Everts	 	17:12.3	Lake Orion
+151.	10	Noah Scheffer	 	17:13.1	Temperance Bedford
+152.	10	Dominic Weatherwax	 	17:13.1	Grand Haven
+153.	12	Nickolas Favazza	 	17:13.2	Clarkston
+154.	11	Grant Sprague	 	17:13.3	Dexter
+155.	12	Nathan Mack	 	17:13.6	Portage Central
+156.	11	Hayden Bernardine	 	17:13.8	Portage Central
+157.	9	Brendan Favazza	 	17:13.8	Clarkston
+158.	10	Elijah Beson	 	17:14.6	Bay City Western
+159.	12	Mac LaBelle	 	17:14.9	Mt. Pleasant
+160.	9	Akshay Reddy	 	17:15.0	Walled Lake Central
+161.	10	Jakob Sayers	 	17:15.0	Birmingham Seaholm
+162.	12	Spencer Atkinson	 	17:15.7	Grand Blanc
+163.	12	Jimmy Colon	 	17:16.1	Howell
+164.	11	Sebastian Smaling	 	17:16.2	Portage Central
+165.	10	Aidan Martin	 	17:16.9	Grand Haven
+166.	12	Julian Kipke	 	17:17.1	Rockford
+167.	12	Nathan Ward	 	17:17.7	Livonia Stevenson
+168.	12	Ryan Talbott	 	17:18.6	Pinckney
+169.	12	Sam Barrett	 	17:18.6	Walled Lake Central
+170.	9	Evan Johnson	 	17:18.8	Caledonia
+171.	9	Ryan Durand	 	17:18.9	Traverse City West
+172.	9	Andrew Nolan	 	17:19.1	Lake Orion
+173.	12	Karl Stroup	 	17:19.8	White Lake Lakeland
+174.	12	Will Kellam	 	17:20.0	Portage Northern
+175.	9	Scott Spaanstra	 	17:21.0	Brighton
+176.	12	Sawyer Kisha	 	17:21.3	Macomb Dakota
+177.	9	Adrien Jund	 	17:22.3	Northville
+178.	9	Nate Sesti	 	17:22.5	Clarkston
+179.	12	Matthew Junkin	 	17:22.6	Lake Orion
+180.	12	Caleb Guenther	 	17:22.9	Hartland
+181.	10	Garrett Schreck	 	17:23.4	Grosse Pointe North
+182.	12	David Seago	 	17:23.7	Birmingham Seaholm
+183.	11	Cole Sobol	 	17:24.1	Grand Blanc
+184.	12	Quentin Couvelaire	 	17:25.7	Grand Haven
+185.	12	Marc Lopez	 	17:25.8	Dexter
+186.	11	Aidan Delfuoco	 	17:27.0	Saline
+187.	10	Nate Wilson	 	17:27.2	Traverse City West
+188.	11	Nathaniel Wood	 	17:28.2	Novi
+189.	12	Alec Gillis	 	17:29.2	Brighton
+190.	10	Max Rathburn	 	17:30.1	Portage Northern
+191.	11	Calvin Riley	 	17:30.7	Grosse Pointe North
+192.	11	Ben Griffith	 	17:32.0	Livonia Stevenson
+193.	10	Kyle Samluk	 	17:32.7	Okemos
+194.	10	Kuvin Satyadev	 	17:33.1	Grosse Pointe North
+195.	11	Jalen Smith	 	17:33.6	Fraser
+196.	11	David Walker	 	17:33.8	Macomb Dakota
+197.	11	Scott Tran	 	17:33.9	GR Forest Hills Nort...
+198.	10	Jacob Hannawa	 	17:34.2	Brother Rice
+199.	12	Shawn Roncka	 	17:35.0	Grandville
+200.	11	Caden Pifer	 	17:35.1	Swartz Creek
+201.	12	Thomas Szymanski	 	17:36.2	Macomb Dakota
+202.	12	Jacob Bieganski	 	17:36.7	Livonia Stevenson
+203.	12	Tyrus Wood	 	17:37.2	Dexter
+204.	12	William Ferguson	 	17:37.6	Grosse Pointe North
+205.	12	Elijah Winger	 	17:37.8	Caledonia
+206.	12	Derek Sanchez	 	17:39.4	Hudsonville
+207.	10	Colin Chevalier	 	17:40.0	Temperance Bedford
+208.	12	Jared Shupe	 	17:40.3	Highland-Milford
+209.	10	John Caley	 	17:40.7	Brighton
+210.	12	Brendan Pastor	 	17:41.1	Ann Arbor Pioneer
+211.	11	Evan McNall	 	17:41.4	Okemos
+212.	9	Justin Hill	 	17:42.9	Walled Lake Central
+213.	11	Owen Gwyn	 	17:43.9	Portage Central
+214.	12	Nathan Wilson	 	17:44.2	Livonia Stevenson
+215.	12	Isaac Cross	 	17:45.7	Alpena
+216.	10	Jake Reaume	 	17:46.1	Temperance Bedford
+217.	9	Austin DePue	 	17:46.4	Temperance Bedford
+218.	12	Nate Peterson	 	17:47.3	Grand Blanc
+219.	9	Jacob Faerber	 	17:47.4	Saginaw Heritage
+220.	10	Patrick Whitton	 	17:48.3	Brighton
+221.	10	Sean Foster	 	17:48.9	Brighton
+222.	12	Dylan Miller	 	17:49.2	Portage Northern
+223.	12	Ryan Race	 	17:49.3	Grosse Pointe North
+224.	10	Lucas Betzoldt	 	17:52.3	Dexter
+225.	12	Hector Ramirez	 	17:53.4	Walled Lake Central
+226.	12	Robert Kunselman	 	17:54.7	Jackson
+227.	11	Alex Takla	 	17:55.7	Walled Lake Central
+228.	11	Alex Jund	 	17:56.1	Northville
+229.	12	Kyle Barger	 	17:56.3	Traverse City Central
+230.	12	Tim Kellner	 	17:57.3	Rockford
+231.	11	Andrew Garza	 	17:58.2	Saginaw Heritage
+232.	11	Nathan Weidman	 	17:58.5	Saginaw Heritage
+233.	10	Miigwaanhs Barrien...	 	17:59.1	Traverse City West
+234.	9	Joe Palmer	 	18:00.1	Traverse City West
+235.	11	Austin Rippee	 	18:00.2	Grand Blanc
+236.	9	Avery Burrone	 	18:01.5	Alpena
+237.	9	Ben VanArtsen	 	18:02.2	Caledonia
+238.	10	Nolan McGahan	 	18:06.2	Brighton
+239.	11	Calum Walton	 	18:07.6	Birmingham Seaholm
+240.	11	Basheer Mossallam	 	18:07.9	Birmingham Seaholm
+241.	12	Kyle Rummel	 	18:08.0	Okemos
+242.	11	Owen Langejans	 	18:17.2	Portage Northern
+243.	12	Casey Meyer	 	18:19.3	Okemos
+244.	10	Justin Keppler	 	18:20.0	Lake Orion
+245.	10	John Friebe	 	18:27.4	Bay City Western
+246.	10	Clay Donajkowski	 	18:30.1	Alpena
+247.	11	Lucas Finton	 	18:31.8	Grand Blanc
+248.	12	Jacob (Larry) Popyk	 	18:33.8	Grand Blanc
+249.	10	Seth Murphy	 	18:36.7	Temperance Bedford
+250.	12	Seth Greenfield	 	18:40.3	Dexter
+251.	11	Daniel Serra	 	18:41.9	Brother Rice
+252.	10	Sam Tuscher	 	19:00.7	Alpena
+253.	12	Mike Stinchcomb	 	19:02.9	Portage Northern
+254.	11	Max Michalak	 	19:05.5	Bay City Western
+255.	11	Cole Johnson	 	19:13.2	Rockford

@@ -1,0 +1,58 @@
+1.	12	Clayton Sayen	 	16:25.7	Houghton
+2.	12	Garrett Rudden	 	16:25.8	Marquette
+3.	12	Luke Rambo	 	16:28.9	Marquette
+4.	11	Adam Bruce	 	16:39.0	Gladstone
+5.	12	Seth Helman	 	16:56.8	Houghton
+6.	11	Blane Newman	 	17:11.2	Kingsford
+7.	12	Leif Odegard	 	17:20.6	Houghton
+8.	11	Jake Strasler	 	17:23.9	Gladstone
+9.	10	Eric Anderson	 	17:24.7	Negaunee
+10.	12	Justin Sanpaka	 	17:34.3	Escanaba
+11.	11	Garrett Zueger	 	17:37.8	Marquette
+12.	12	Connor Jackson	 	17:41.3	Houghton
+13.	10	Kaaleb Ranta	 	17:47.7	Sault Ste. Marie
+14.	12	Elliott Prusi	 	17:47.9	Negaunee
+15.	12	Ilhan Onder	 	17:49.6	Calumet
+16.	9	Hunter Walther	 	17:50.3	Sault Ste. Marie
+17.	12	Nikolai Huotari	 	17:53.7	Houghton
+18.	11	Clayton Bulleit	 	18:03.6	Houghton
+19.	12	Nathan Zika	 	18:09.0	Marquette
+20.	11	Jakob Hopkins	 	18:09.8	Sault Ste. Marie
+21.	10	Zachary Wilcox	 	18:10.0	Sault Ste. Marie
+22.	11	Mathurin Gagnon	 	18:11.7	Marquette
+23.	12	Luke LaFave	 	18:14.9	Escanaba
+24.	10	Joe Wood	 	18:16.3	Houghton
+25.	12	Drew Thomas	 	18:32.4	Marquette
+26.	12	James Young	 	18:40.8	Gladstone
+27.	9	Hunter Shepeck	 	18:42.1	Menominee
+28.	10	Wesley Johnson	 	18:42.7	Negaunee
+29.	10	Elijah McParlan	 	18:50.7	Calumet
+30.	12	Chase Modschiedler	 	18:51.9	Menominee
+31.	10	Moses Waite	 	18:54.6	Marquette
+32.	9	Derek Douglas	 	18:55.6	Escanaba
+33.	9	Jaron Wyma	 	18:59.2	Sault Ste. Marie
+34.	9	Brodey Bevins	 	19:00.0	Escanaba
+35.	10	Patric Hildebrand	 	19:02.6	Sault Ste. Marie
+36.	12	Cody Niskanen	 	19:03.6	Negaunee
+37.	10	Alec Prusi	 	19:25.5	Negaunee
+38.	11	James McKnight	 	19:29.5	Gladstone
+39.	12	Joe Sturm	 	19:31.5	Kingsford
+40.	12	Ender Harris	 	19:32.6	Negaunee
+41.	11	Jensen Schneiderhan	 	19:51.7	Calumet
+42.	11	Dylan Krause	 	19:51.8	Gladstone
+43.	10	Joshua Bedard	 	20:01.6	Negaunee
+44.	11	Charlie Tackman	 	20:02.7	Escanaba
+45.	11	Andrew Lundquist	 	20:04.2	Calumet
+46.	9	Landen Clausen	 	20:11.4	Menominee
+47.	9	Bryce Lamarche	 	20:13.6	Gladstone
+48.	9	Anton Kristapovich	 	20:14.7	Calumet
+49.	11	Seth Horton	 	20:15.6	Sault Ste. Marie
+50.	11	Ture Burholt	 	20:27.7	Escanaba
+51.	10	Nolan Johnson	 	20:41.4	Gladstone
+52.	12	Simon Chouinard	 	21:01.3	Escanaba
+53.	11	Parker Morgan	 	21:16.0	Kingsford
+54.	9	Nick Sandahl	 	21:33.6	Menominee
+55.	9	Adam Sandahl	 	21:35.9	Menominee
+56.	11	Trent Betters	 	21:42.2	Menominee
+57.	10	Braeden Park	 	21:59.0	Menominee
+58.	10	Luke Sturm	 	22:36.2	Kingsford
