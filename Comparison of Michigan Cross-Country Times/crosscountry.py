@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import math
-from tabula import read_pdf
 
 # Convert the text 'stopwatch time' (MM:SS.s) to raw seconds
 def stopwatch_time_to_seconds(stopwatch_time):
