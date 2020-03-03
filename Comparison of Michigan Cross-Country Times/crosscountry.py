@@ -88,6 +88,5 @@ plt.legend(['Winning time', 'Top 25 time', 'Average time'], loc=4)
 # Include the actual race-winning times for each year on the visual
 for a, b in zip(df.columns.values, winners):
     plt.annotate(xy=[a, b], s=seconds_to_time(int(b)), ha='center', textcoords='offset points', xytext=(0, 10))
-
 plt.savefig('visualization.png')
 plt.show()
