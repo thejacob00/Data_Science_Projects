@@ -2,8 +2,8 @@ This repository is my personal portfolio of Python projects, the bulk of which a
 Data Science with Python specialization via the University of Michigan.
 
 Through this course and these projects, I have hands-on experience with Numpy, Pandas, Matplotlib, Scikitlearn, and
-other fundamental data science concepts in Python.  Please see the README for individual projects (and/or the .py files
-themeselves) for additional information
+other fundamental data science concepts in Python.  Please see the README file for individual projects (and/or the .py
+files themeselves) for additional information.
 
 Projects that may be of interest:
 
